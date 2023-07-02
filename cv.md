@@ -53,3 +53,4 @@ EDUCATION
     management Academy, Minsk economist-manager
 
     specialty "Economics and management at an industrial enterprise"
+    
